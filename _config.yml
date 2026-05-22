@@ -1,4 +1,13 @@
 title: Dmitrii Panasenko
 description: PhD Student
 remote_theme: mmistakes/minimal-mistakes
-``
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
