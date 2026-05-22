@@ -1,16 +1,28 @@
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
 title: Dmitrii Panasenko
 description: PhD Student
 
-remote_theme: pages-themes/minimal@v0.2.0
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
 
-plugins:
-- jekyll-remote-theme
-
-header_pages:
-- index.md
-- research.md
-- publications.md
-- contact.md
-
-permalink: pretty
-
+author:
+  name: "Dmitrii Panasenko"
+  # avatar: "/assets/profile.jpg"
+  bio: "PhD Student"
+  location: "Sweden"
+  links:
+    - label: "Email"
+      url: "mailto:a@a.com"
+    - label: "GitHub"
+      url: "https://github.com/dmpanasenko"
