@@ -9,7 +9,13 @@
 
 body {
   font-size: 0.82rem;
-  line-height: 1.4;
+  line-height: 1.1;
+}
+
+.masthead__menu-item a {
+  line-height: 1.6;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
 .archive {
