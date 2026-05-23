@@ -2,7 +2,7 @@
 layout: single
 title: ""
 author_profile: true
-permalink: /Talks/
+permalink: /talks/
 ---
 
 # Talks
