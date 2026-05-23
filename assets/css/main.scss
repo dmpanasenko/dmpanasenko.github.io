@@ -12,8 +12,10 @@ body {
   line-height: 1.1;
 }
 
-.author__avatar img {
-  border-radius: 50%;
+.author__avatar img,
+.author__avatar img:hover {
   opacity: 1 !important;
+  filter: none !important;
 }
+
 
