@@ -13,11 +13,24 @@ body {
 }
 
 .sidebar {
-  filter: none;
+  opacity: 1 !important;
 }
 
-.sidebar * {
-  filter: none;
-  opacity: 1;
-  transition: none;
+.author__avatar,
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+}
+
+/* Prevent hover-based fading */
+.sidebar:hover,
+.author__urls-wrapper:hover {
+  opacity: 1 !important;
+}
+
+.author__urls-wrapper .btn {
+  display: none;
 }
