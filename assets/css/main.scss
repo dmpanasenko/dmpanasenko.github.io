@@ -17,6 +17,11 @@ body {
   padding-left: 0.5em;
 }
 
+.layout--single .page {
+  margin-left: 0 !important;
+}
+
+
 .sidebar {
   opacity: 1 !important;
   width: 180px !important;
