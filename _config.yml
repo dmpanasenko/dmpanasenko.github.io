@@ -4,14 +4,19 @@ plugins:
   - jekyll-include-cache
 
 title: Dmitrii Panasenko
-description: PhD Student
 
 minimal_mistakes_skin: aqua
+
+atom_feed:
+  hide: true
+
+extra_css:
+  - /assets/css/custom.css
 
 author:
   # name: "Dmitrii Panasenko"
   # avatar: "/assets/profile.jpg"
-  bio: "PhD student at Umeå University"
+  bio: "PhD student at Umeå University (UMU)"
   location: "Umeå, Sweden"
   links:
     - label: "Email (UMU)"
