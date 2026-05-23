@@ -5,6 +5,10 @@ author_profile: true
 permalink: /cv/
 ---
 
-# Current CV
+## Current CV
 
-Here is a file with my CV (last update May 2026): LINK
+You can download my CV here:
+
+[Download CV (PDF)](/assets/files/cv.pdf)
+
+_Last updated: May 2026_
