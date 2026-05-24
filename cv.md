@@ -7,7 +7,7 @@ permalink: /cv/
 
 # Current CV
 
-You can download my CV here:
+You can download my full CV here:
 
 [Download CV (PDF)](/assets/files/cv.pdf)
 
