@@ -16,8 +16,6 @@ permalink: /teaching/
 - **Reverse Engineering** (Master) — lectures  
 - **Methods and Tools for Computer Scientists** (Bachelor) — problem solving  
 
----
-
 ### Chelyabinsk State University (2019 — 2022) 
 
 - **Finite Fields** (Bachelor) — problem solving  
