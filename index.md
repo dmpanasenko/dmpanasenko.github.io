@@ -12,3 +12,5 @@ I am a PhD student in mathematics at [Umeå University](https://www.umu.se/en/st
 My current research focuses on combinatorial optimization, in particular the Traveling Salesman Problem. My other interest is algebraic graph theory, especially problems related to Deza graphs, divisible design graphs, and eigenfunctions of graphs.
 
 I also maintain a database on Deza graphs and divisible design graphs: [Strictly Deza Graphs](http://alg.imm.uran.ru/dezagraphs/main.html).
+
+In my free time, I try to learn Swedish, read books and comics, walk around Umeå, and play video games on my Switch.
