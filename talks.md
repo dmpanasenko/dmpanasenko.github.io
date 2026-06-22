@@ -6,6 +6,7 @@ permalink: /talks/
 ---
 
 # Talks
+- _Computation of set tolerances with applications to the minimum spanning tree problem_, The 20th International Conference on Algorithmic Aspects in Information and Management ([AAIM 2026](https://theory.utdallas.edu/AAIM2026/program.html)), Dallas (USA), June 19–21, 2026. [slides](/assets/files/slides_aaim_2026.pdf)
 - _Computing regular set tolerances for combinatorial minimization problems_, The Swedish Mathematical Society [Autumn Meeting 2025](https://www.swe-math-soc.se/pdf/program-host2025.pdf), Uppsala (Sweden), November 21, 2025. [slides](/assets/files/slides_uppsala_2025.pdf)
 - _Deza graphs and vertex connectivity_, [Lunch Seminar in Combinatorial Optimization](https://spor.win.tue.nl/event/co-seminar-dmitrii-panasenko/) in Eindhoven University of Technology, Eindhoven (Netherlands), December 13, 2024. [slides](/assets/files/slides_eindhoven_2024.pdf)
 - _Deza graphs and vertex connectivity_, [Algebraic Graph Theory Seminar](https://math.uwaterloo.ca/~agtheory/) in University of Waterloo, Waterloo (Canada), April 29, 2024. [video](https://youtu.be/SuMLoqIPITE?si=gT4E8Ixynuzn_8Wz)
