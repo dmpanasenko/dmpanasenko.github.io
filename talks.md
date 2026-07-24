@@ -6,6 +6,7 @@ permalink: /talks/
 ---
 
 # Talks
+- _Computing set upper tolerance for the minimum spanning tree problem_, The International Conference and PhD-Master Summer School [Groups and Graphs, Tessellations and Transformations (G2T2)](http://ias.ust.hk/events/2026g2t2/home.php), Hong Kong (China), July 12–26, 2026. [slides](/assets/files/slides_g2t2_2026.pdf)
 - _Computation of set tolerances with applications to the minimum spanning tree problem_, The 20th International Conference on Algorithmic Aspects in Information and Management ([AAIM 2026](https://theory.utdallas.edu/AAIM2026/program.html)), Dallas (USA), June 19–21, 2026. [slides](/assets/files/slides_aaim_2026.pdf)
 - _Computing regular set tolerances for combinatorial minimization problems_, The Swedish Mathematical Society [Autumn Meeting 2025](https://www.swe-math-soc.se/pdf/program-host2025.pdf), Uppsala (Sweden), November 21, 2025. [slides](/assets/files/slides_uppsala_2025.pdf)
 - _Deza graphs and vertex connectivity_, [Lunch Seminar in Combinatorial Optimization](https://spor.win.tue.nl/event/co-seminar-dmitrii-panasenko/) in Eindhoven University of Technology, Eindhoven (Netherlands), December 13, 2024. [slides](/assets/files/slides_eindhoven_2024.pdf)
@@ -20,4 +21,4 @@ permalink: /talks/
 - _The complete enumeration of strictly Deza graphs with at most 21 vertices_, [The 2nd Workshop on Algebraic Graph Theory and its Applications](http://mca.nsu.ru/atg2020/), Novosibirsk (Russia), March 14–17, 2020. [slides](/assets/files/slides_agt2_2020.pdf)
 - _The complete enumeration of strictly Deza graphs with at most 21 vertices_, The International Conference and PhD-Master Summer School [Groups and Graphs, Designs and Dynamics (G2D2)](https://math.sjtu.edu.cn/conference/G2D2/), Yichang (China), August 12–25, 2019. [slides](/assets/files/slides_g2d2_2019.pdf)
 - _On equitable partitions of divisible design graphs_, The International Conference and PhD-Master Summer School [Groups and Graphs, Representations and Relations (G2R2)](http://math.nsc.ru/conference/g2/g2r2/), Novosibirsk (Russia), August 06–19, 2018. [slides](/assets/files/slides_g2r2_2018.pdf)
-- _Cycles in the 3-Big Pancake graphs_, The International Conference and PhD-Master Summer School [Groups and Graphs, Metrics and Manifolds (G2M2)](https://g2.imm.uran.ru/g2m2/), Yekaterinburg (Russia), 2017. [slides](/assets/files/slides_g2m2_2017.pdf)
+- _Cycles in the 3-Big Pancake graphs_, The International Conference and PhD-Master Summer School [Groups and Graphs, Metrics and Manifolds (G2M2)](https://g2.imm.uran.ru/g2m2/), Yekaterinburg (Russia), July 22–30, 2017. [slides](/assets/files/slides_g2m2_2017.pdf)
