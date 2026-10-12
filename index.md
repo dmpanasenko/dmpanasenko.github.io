@@ -14,3 +14,7 @@ My current research focuses on combinatorial optimization, in particular the Tra
 I also maintain a database on Deza graphs and divisible design graphs: [Strictly Deza Graphs](http://alg.imm.uran.ru/dezagraphs/main.html).
 
 In my free time, I try to learn Swedish, read books and comics, walk around Umeå, and play video games on my Switch.
+
+# AI
+
+I am not using AI in any part of my research. [This post](https://world.hey.com/dmitrii.panasenko/me-i-maths-and-ai-4d31812b) provides more details about my opinion on the topic of AI in mathematics.
