@@ -6,7 +6,7 @@ permalink: /talks/
 ---
 
 # Talks
-- _Computation of set tolerances for combinatorial bottleneck problem_, The Swedish Mathematical Society [Autumn Meeting 2026](https://www.swe-math-soc.se/pdf/InbjudanHostmoteSMS26.pdf), Stockholm (Sweden), November 20, 2026. [slides](/assets/files/slides_stockholm_2026.pdf)
+- _Computation of set tolerances for combinatorial bottleneck problems_, The Swedish Mathematical Society [Autumn Meeting 2026](https://www.swe-math-soc.se/pdf/InbjudanHostmoteSMS26.pdf), Stockholm (Sweden), November 20, 2026. [slides](/assets/files/slides_stockholm_2026.pdf)
 - _Computing set upper tolerance for the minimum spanning tree problem_, The International Conference and PhD-Master Summer School [Groups and Graphs, Tessellations and Transformations (G2T2)](http://ias.ust.hk/events/2026g2t2/home.php), Hong Kong (China), July 12–26, 2026. [slides](/assets/files/slides_g2t2_2026.pdf)
 - _Computation of set tolerances with applications to the minimum spanning tree problem_, The 20th International Conference on Algorithmic Aspects in Information and Management ([AAIM 2026](https://theory.utdallas.edu/AAIM2026/program.html)), Dallas (USA), June 19–21, 2026. [slides](/assets/files/slides_aaim_2026.pdf)
 - _Computing regular set tolerances for combinatorial minimization problems_, The Swedish Mathematical Society [Autumn Meeting 2025](https://www.swe-math-soc.se/pdf/program-host2025.pdf), Uppsala (Sweden), November 21, 2025. [slides](/assets/files/slides_uppsala_2025.pdf)
